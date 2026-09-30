@@ -1,0 +1,14 @@
+{
+  "name": "task-1-2p",
+  "version": "1.0.0",
+  "description": "SIT313 Task 1.2P",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0"
+  }
+}
